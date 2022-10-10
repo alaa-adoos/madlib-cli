@@ -7,7 +7,7 @@
 
 ## [pull request](https://github.com/alaa-adoos/madlib-cli/pull/1)
 ## to run the application :
-** python -m madlib_cli.madlib**
+**python -m madlib_cli.madlib**
 
 ## to testing :
 **pytest**
