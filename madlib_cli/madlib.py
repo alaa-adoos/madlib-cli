@@ -6,7 +6,7 @@ def parse_template(txt): #parse_template function with text argument
      tuble=("Adjective","Adjective","Noun")# tuple
      text="It was a {} and {} {}."# text
      
-     return text,tuble # return two values
+     return text,tuble #return two values
  
 def merge(txt,tuble): # merge function with text and tuble arguments
     result=txt.format(*tuble) #text with unpacking tuple format
