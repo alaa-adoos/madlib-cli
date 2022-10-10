@@ -14,7 +14,7 @@ def merge(txt,tuble): # merge function with text and tuble arguments
 
 def story():
     print("**************************************************") # welcome message
-    print("**          welcom to madlab game               ** ")
+    print("**          welcom to madlab game:)             ** ")
     print("**                                              ** ")
     print("**    madlab are a word replacement game        ** ")
     print("**\t\t")
